@@ -1,12 +1,12 @@
 # SFNSEnabler
 
-![screenshot](https://github.com/kiding/SFNSEnabler/raw/master/screenshot.jpg)
+![screenshot](https://github.com/kiding/SFNSEnabler/raw/1/screenshot.jpg)
 
-OS X El Capitan has introduced new system fonts, which are some variations of [San Francisco typeface](https://developer.apple.com/fonts/) known as _.SF NS Display_ and _.SF NS Text_. By default, they are "unlisted" in the Font Book, therefore unusable from applications like TextEdit, Pixelmator, etc. _SFNSEnabler_ allows those usage in a limited way.
+_OS X El Capitan_ has introduced new system fonts, which are some variations of [San Francisco typeface](https://developer.apple.com/fonts/) known as _.SF NS Display_ and _.SF NS Text_. By default, they are "unlisted" in the Font Book, therefore unusable from applications like TextEdit, Pixelmator, etc. _SFNSEnabler_ allows those usage in a limited way.
 
 ## Installation
 
-Simply download and install __[SFNSEnabler.otf](https://github.com/kiding/SFNSEnabler/raw/master/SFNSEnabler.otf)__. Now you should be able to choose the fonts from applications. If it's not visible in the application's usual dropdown menu, use the "Show Fonts (⌘T)" menu.
+Simply download and install __[SFNSEnabler.otf](https://github.com/kiding/SFNSEnabler/raw/1/SFNSEnabler.otf)__. Now you should be able to choose the fonts from applications. If it's not visible in the application's usual dropdown menu, use the "Show Fonts (⌘T)" menu.
 
 If you don't know how to install a font, see [how](https://support.apple.com/en-us/HT201749). Ignore "Font Validation" by checking "SFNSEnabler.otf" and clicking "Install Checked."
 
