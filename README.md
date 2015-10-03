@@ -8,7 +8,7 @@ _OS X El Capitan_ has introduced new system fonts, which are some variations of 
 
 Simply download and install __[SFNSEnabler.otf](https://github.com/kiding/SFNSEnabler/raw/1/SFNSEnabler.otf)__. Now you should be able to choose the fonts from applications; go to the __"Show Fonts (⌘T)"__ menu, and __search__ for __"SF"__. The font might not be visible until you __search__ for them.
 
-The family name of the fonts varies by the language preference of your system, for example, in Korean you need to search for "시스템 서체." The complete list of the names is following.
+The family name of the fonts varies by the language preference of your system, for example, in Korean you need to search for "시스템 서체." The complete list of the names is following, excerpted from Apple's metadata.
 
 * English __.SF NS Display__
 * Arabic (Egypt) __خط النظام__
@@ -45,13 +45,15 @@ The family name of the fonts varies by the language preference of your system, f
 
 If you don't know how to install a font, see [how](https://support.apple.com/en-us/HT201749). Ignore "Font Validation" by checking "SFNSEnabler.otf" and clicking "Install Checked."
 
-_.SF NS Text_ fonts are _merged_ with _.SF NS Display_ for some reason, but you can still select most of them under _.SF NS Display_; G1, G2, G3 and the italics do not belong to _.SF NS Display_. I also don't know what Gs are for...
+_.SF NS Text_ fonts are _merged_ with _.SF NS Display_ for some reason, but you can still select most of them under _.SF NS Display_; G1, G2, G3 and the italics do not belong to _.SF NS Display_.
 
 Some application might behave clunky as the selected font name doesn't appear properly in the list.
 
 ## Disclaimer
 
-_Use it at your own risk._ But does this harm the system? Probably not. SFNSEnabler.otf is a simple blank otf file generated using [FontForge](https://github.com/fontforge/fontforge), with only one metadata "Family Name" colliding with the system fonts. It does not use any of Apple's font codes nor glyphs.
+_Use it at your own risk._
+
+But does this harm the system? Probably not. SFNSEnabler.otf is a simple blank otf file generated using [FontForge](https://github.com/fontforge/fontforge), with only one metadata "Family Name" colliding with the system fonts. It does not use any of Apple's font codes nor glyphs.
 
 ## Credits
 
